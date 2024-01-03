@@ -1,4 +1,4 @@
-# tsort
+# tsort for the toybox project (only)
 
 An implementation of POSIX tsort.
 
